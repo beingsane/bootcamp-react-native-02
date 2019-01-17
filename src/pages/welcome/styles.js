@@ -26,6 +26,12 @@ const styles = StyleSheet.create({
     padding: metrics.basePadding * 2,
   },
 
+  error: {
+    color: colors.danger,
+    marginTop: metrics.baseMargin,
+    textAlign: 'center',
+  },
+
   form: {
     marginTop: metrics.baseMargin * 2,
   },
