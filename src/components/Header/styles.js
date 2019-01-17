@@ -16,6 +16,10 @@ const styles = StyleSheet.create({
     paddingTop: getStatusBarHeight(),
   },
 
+  icon: {
+    color: colors.darker,
+  },
+
   title: {
     color: colors.darker,
     fontSize: 16,
